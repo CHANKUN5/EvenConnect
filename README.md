@@ -24,5 +24,7 @@ Es un proyecto creado para demostrar habilidades en maquetación, estilos, inter
    ```bash
    git clone https://github.com/TU-USUARIO/eventconnect.git
    
-## Capturas
+## 📷 Capturas
+[<img src="https://github.com/user-attachments/assets/1b309e56-b10a-42f7-8860-27eb12265568" width="400">](https://github.com/user-attachments/assets/1b309e56-b10a-42f7-8860-27eb12265568)
+
 
